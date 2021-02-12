@@ -1,0 +1,11 @@
+{
+    "require": {
+        "smarty/smarty": "^3.1",
+        "steampixel/simple-php-router": "^0.6.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/classes"
+        ]
+    }
+}
